@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# formula-vector
+A pen and paper racing game revisited on web. Implemented in React.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
